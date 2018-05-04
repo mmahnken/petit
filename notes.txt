@@ -1,0 +1,13 @@
+idea for a conference talk:
+
+flask dependencies, what each one does.
+
+
+
+To start the server:
+
+npm run start:dev
+
+The server is running on port 3000, so visit
+
+localhost:3000
